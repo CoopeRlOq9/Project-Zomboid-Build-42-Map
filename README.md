@@ -54,7 +54,7 @@ Explore towns, roads, points of interest, and loot locations with a fast and use
 
 ## Installation
 
-[DOWNLOAD]()
+[DOWNLOAD](https://github.com/CoopeRlOq9/Project-Zomboid-Build-42-Map/releases/tag/release)
 
 ### Build
 
