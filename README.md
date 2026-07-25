@@ -14,7 +14,7 @@ Explore towns, roads, points of interest, and loot locations with a fast and use
 
 ## Screenshots
 
-![photo](/)
+![photo](Data/ac8f3300-7c9b-45a7-a14c-f515c5e32882.png)
 
 ## Features
 
